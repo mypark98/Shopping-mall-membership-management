@@ -1,4 +1,4 @@
-### Shopping-mall-membership-management 🛒 2222
+### Shopping-mall-membership-management 🛒
 * 쇼핑몰 회원 관리 프로그램
 * 회원 정보 및 매출 관리, 회원 정보 입력 및 조회 기능
 * 간단한 Servlet, Jsp 연습용 코드입니다.
